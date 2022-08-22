@@ -1,0 +1,9 @@
+{
+  "response": "OK",
+  "chain": "rinkeby",
+  "transaction_hash": "0x0944359c10e73165f2e85b450b24b90abe3a14c85485c4d39a23e960db9c68ae",
+  "transaction_external_url": "https://rinkeby.etherscan.io/tx/0x0944359c10e73165f2e85b450b24b90abe3a14c85485c4d39a23e960db9c68ae",
+  "owner_address": "0xfF9693F0BaC7b3F461a70B4bf94d90E74cA7AF3e",
+  "name": "ninja",
+  "symbol": "nj"
+}
